@@ -1,0 +1,7 @@
+{
+  "nome": 'Liga dos Campeoes', 
+  "fase": 'meias-finais', 
+  "equipas": ['Juventus', 'Real Madrid', 'Atletico Madrid', 'AS Monaco'],
+  "diferenca_golos": '-3',
+  "media_golos_jogo": '16.54'
+}

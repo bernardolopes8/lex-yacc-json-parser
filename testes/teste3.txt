@@ -1,0 +1,8 @@
+{
+    "nome":'John',
+    "idade":'30',
+    "carros": { "nome":'Ford', "modelos":[ 'Fiesta', 'Focus', 'Mustang', 'GT'], "precos": ['32', '41', '75', '101']},
+    "motas": { "nome":'Ducati', "modelos":[ 'GT', 'Monster']},
+    "camisas": { "marca":'Massimo Dutti', "tamanho": '25'},
+    "xpto": ['1', '2', '3']
+}

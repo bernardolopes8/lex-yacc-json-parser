@@ -1,0 +1,1 @@
+{"nome": 'Paulinho', "idade": '18', "disciplinas": ['PL', 'AED']}
